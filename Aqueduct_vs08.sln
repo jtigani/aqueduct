@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Aqueduct_vs08", "src\Aqueduct_vs08.fsproj", "{B560157B-0AF1-452D-ADA9-B32CF36F51A6}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Sample_vs08", "sample\Sample_vs08.fsproj", "{35F6D5A4-C717-4FBD-9583-BEACF4310D50}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Test_vs08", "test\Test_vs08.fsproj", "{D73D6F30-2196-4B16-BD28-8B21395691F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B560157B-0AF1-452D-ADA9-B32CF36F51A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B560157B-0AF1-452D-ADA9-B32CF36F51A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B560157B-0AF1-452D-ADA9-B32CF36F51A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B560157B-0AF1-452D-ADA9-B32CF36F51A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35F6D5A4-C717-4FBD-9583-BEACF4310D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35F6D5A4-C717-4FBD-9583-BEACF4310D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35F6D5A4-C717-4FBD-9583-BEACF4310D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35F6D5A4-C717-4FBD-9583-BEACF4310D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D73D6F30-2196-4B16-BD28-8B21395691F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73D6F30-2196-4B16-BD28-8B21395691F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D73D6F30-2196-4B16-BD28-8B21395691F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D73D6F30-2196-4B16-BD28-8B21395691F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
